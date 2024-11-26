@@ -32,13 +32,6 @@
           },
           {
             "type": "link",
-            "addDate": 1680424139290,
-            "title": "Remove Background from Image for Free – remove.bg",
-            "icon": "https://logo.clearbit.com/www.remove.bg",
-            "url": "https://www.remove.bg/"
-          },
-          {
-            "type": "link",
             "addDate": 1680347049912,
             "title": "SMART - Servier Medical ART",
             "icon": "https://logo.clearbit.com/smart.servier.com",
@@ -230,6 +223,13 @@
                 "title": "前言 | 数据科学中的 R 语言",
                 "icon": "https://logo.clearbit.com/bookdown.org",
                 "url": "https://bookdown.org/wangminjie/R4DS/"
+              },
+              {
+                "type": "link",
+                "addDate": 1697378142107,
+                "title": "OpenNeuro - MEG Search",
+                "icon": "https://logo.clearbit.com/openneuro.org",
+                "url": "https://openneuro.org/search/modality/meg?query=%7B%22modality_selected%22%3A%22MEG%22%2C%22sortBy_selected%22%3A%7B%22label%22%3A%22Newest%22%2C%22value%22%3A%22newest%22%7D%7D"
               }
             ]
           }
@@ -491,8 +491,106 @@
             "title": "Docker 更换镜像源（阿里、科大、网易、腾讯、中科大、微软、官方） - 知乎",
             "icon": "https://logo.clearbit.com/zhuanlan.zhihu.com",
             "url": "https://zhuanlan.zhihu.com/p/702129315"
+          },
+          {
+            "type": "link",
+            "addDate": 1697205513990,
+            "title": "Python-EEG工具库MNE中文教程(1)-MNE中数据结构Raw及其用法简介 - 阅读清单 - 腾讯云开发者社区-腾讯云",
+            "icon": "https://logo.clearbit.com/cloud.tencent.com",
+            "url": "https://cloud.tencent.com/developer/inventory/5677/article/1540178"
+          },
+          {
+            "type": "link",
+            "addDate": 1701504620307,
+            "title": "leavein - 知乎",
+            "icon": "https://logo.clearbit.com/www.zhihu.com",
+            "url": "https://www.zhihu.com/people/leavein/posts"
           }
         ]
+      },
+      {
+        "type": "link",
+        "addDate": 1732626417622,
+        "title": "荔枝树",
+        "icon": "https://logo.clearbit.com/qiulab.work",
+        "url": "https://qiulab.work/"
+      },
+      {
+        "type": "link",
+        "addDate": 1732626376110,
+        "title": "PubMed",
+        "icon": "https://logo.clearbit.com/pubmed.ncbi.nlm.nih.gov",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/?db=pubmed&amp;cmd=link&amp;linkname=pubmed_pubmed&amp;uid=15826467"
+      },
+      {
+        "type": "link",
+        "addDate": 1732626492266,
+        "title": "ChatGPT",
+        "icon": "https://logo.clearbit.com/chatgpt.com",
+        "url": "https://chatgpt.com/?oai-dm=1"
+      },
+      {
+        "type": "link",
+        "addDate": 1732626492266,
+        "title": "Kimi.ai - 帮你看更大的世界",
+        "icon": "https://logo.clearbit.com/kimi.moonshot.cn",
+        "url": "https://kimi.moonshot.cn/"
+      },
+      {
+        "type": "link",
+        "addDate": 1732626406176,
+        "title": "bilibili",
+        "icon": "https://logo.clearbit.com/www.bilibili.com",
+        "url": "https://www.bilibili.com/"
+      },
+      {
+        "type": "link",
+        "addDate": 1732626406176,
+        "title": "GitHub",
+        "icon": "https://logo.clearbit.com/github.com",
+        "url": "https://github.com/"
+      },
+      {
+        "type": "link",
+        "addDate": 1732626406175,
+        "title": "HelloGitHub",
+        "icon": "https://logo.clearbit.com/hellogithub.com",
+        "url": "https://hellogithub.com/"
+      },
+      {
+        "type": "link",
+        "addDate": 1732626376111,
+        "title": "中国知网",
+        "icon": "https://logo.clearbit.com/www.cnki.net",
+        "url": "https://www.cnki.net/"
+      },
+      {
+        "type": "link",
+        "addDate": 1732626391804,
+        "title": "remove.bg",
+        "icon": "https://logo.clearbit.com/www.remove.bg",
+        "url": "https://www.remove.bg/zh"
+      },
+      {
+        "type": "link",
+        "addDate": 1732626406176,
+        "title": "阿里云控制台",
+        "icon": "https://logo.clearbit.com/home.console.aliyun.com",
+        "url": "https://home.console.aliyun.com/home/dashboard/ProductAndService"
+      },
+      {
+        "type": "link",
+        "addDate": 1732626391804,
+        "title": "AI-30tool",
+        "icon": "https://logo.clearbit.com/www.30aitool.com",
+        "url": "https://www.30aitool.com/ai"
+      },
+      {
+        "type": "link",
+        "addDate": 1732626376111,
+        "title": "TCGA",
+        "icon": "https://logo.clearbit.com/portal.gdc.cancer.gov",
+        "url": "https://portal.gdc.cancer.gov/"
       }
     ]
   }
